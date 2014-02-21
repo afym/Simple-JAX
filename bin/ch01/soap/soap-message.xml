@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header>
+      <ms:TimeRequest xmlns:ms="http://ch01/mysoap/">time_request</ms:TimeRequest>
+   </SOAP-ENV:Header>
+   <SOAP-ENV:Body>
+      <ms:TimeRequest xmlns:ms="http://ch01/mysoap/">Sun Sep 22 10:29:04 COT 2013</ms:TimeRequest>
+   </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
